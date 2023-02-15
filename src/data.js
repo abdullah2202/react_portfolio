@@ -51,10 +51,13 @@ export const testimonials = [
 ];
 
 export const skills = [
+  "Python",
   "JavaScript",
+  "DJango",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "FastAPI",
+  "MQL5",
+  "AWS Amplify",
+  "CI/CD",
+  "M365 Power Platform",
 ];
